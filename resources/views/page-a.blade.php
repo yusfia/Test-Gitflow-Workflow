@@ -1,0 +1,9 @@
+<html>
+<head>
+    <title>Page A</title>   
+</head>
+<body>
+    <h1>Welcome to Page A</h1>
+    <p>This is the content of Page A.</p>   
+</body>
+</html>
