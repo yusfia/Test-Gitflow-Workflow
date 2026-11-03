@@ -14,3 +14,7 @@ Route::get('/page-b', function () {
     return view('page-b');
 });
 
+Route::get('/page-c', function () {
+    return view('page-c');
+});
+
